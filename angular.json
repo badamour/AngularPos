@@ -127,6 +127,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AnglularPOS"
+    }
+  },
+  "defaultProject": "AnglularPOS",
+  "cli": {
+    "analytics": "87c372ca-cb51-4ccb-9998-4b969361bc46"
+  }
 }
